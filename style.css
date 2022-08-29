@@ -13,7 +13,7 @@ body {
 
 section {
     display: flex;
-    padding: 2%;
+    padding: 2% 6%;
 }
 
 .w-50 img {
@@ -32,4 +32,11 @@ section {
 .top-banner {
     background-image: url('images/top-banner.png');
     background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+
+.dream {
+    background-image: url('images/dream-bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
 }
